@@ -1,0 +1,38 @@
+.cart-container {
+  margin-top: 200px;
+  display: block;
+  margin-left: 30%;
+}
+
+.cart-title {
+  margin-bottom: 80px;
+  font-size: 32px;
+}
+
+.cart-count {
+  margin-left: 10px;
+}
+.total-sum{
+  margin-bottom: 80px;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.btn-checkout{
+  margin-left: 300px;
+  margin-bottom: 40px;
+  width: 400px;
+  height: 70px;
+  font-size: 20px;
+  background-color: #000F08;
+  color: #FFFFFF;
+}
+
+.bank-cart-img{
+  margin-left: 400px;
+  margin-bottom: 100px;
+}
+
+.bankCart-second-img{
+  margin-left: 20px;
+}
